@@ -27,7 +27,8 @@ and visualization.
 ## Files
 | File | Description |
 |---|---|
-| `project.ipynb` | Full analysis notebook (50 questions) |
+| `project-nepse.ipynb` | Full analysis notebook (50 questions) |
+| `Raw_StockData.csv` | Raw Dataset
 | `nepse_dashboard.png` | 6-chart summary dashboard |
 
 ![Overall Dashboard](Overall%20Dashboard.png)
